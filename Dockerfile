@@ -6,4 +6,4 @@ WORKDIR /src
 
 # Switch to priviledged user to install dependencies and application
 USER 0
-RUN echo 'Hello, World!' > /test.txt
+RUN echo 'Hello, World! Ling' > /test.txt
